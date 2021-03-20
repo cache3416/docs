@@ -18,10 +18,10 @@ You can create custom messages that users will see on the sign in and sign out p
 {% data reusables.enterprise_site_admin_settings.management-console %}
 {% data reusables.enterprise_management_console.authentication %}
 4. Select **Built in authentication**.
-![Select built-in authentication option](/assets/images/enterprise/management-console/built-in-auth-select.png)
-
-{% data reusables.enterprise_user_management.two_factor_auth_header %}
-{% data reusables.enterprise_user_management.2fa_is_available %}
+! [Seleccione la opción de autenticación incorporada] (/assets/images/enterprise/management-console/built-in-auth-select.png)
+oye
+{% data reusables.enterprise_user_management.two_factor_auth_header%
+{% data reusables.enterprise_user_management.2fa_is_availab%}
 
 ### Creating your account and adding users
 
